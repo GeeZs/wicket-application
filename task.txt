@@ -7,3 +7,5 @@
 IDE: Eclipse
 
 Выполненое задание залить на GitHub в ваш локальный репозиторий и выслать ссылку.
+Some text changes added!
+
